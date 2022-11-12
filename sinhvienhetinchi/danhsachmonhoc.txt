@@ -1,0 +1,8 @@
+MH0012,Dai So Tuyen Tinh,3,3
+MH0032,Vat Li 1,4,4
+MH0003,Tieng Anh A1,3,3
+MH0090,Ky Nang Thuyet Trinh,1,1
+MH1234,Maclenin,3,3
+MH0047,Tin Hoc Co So 1,3,3
+MH0039,Giao Duc The Chat,3,3
+MH1111,Mang May Tinh,3,3

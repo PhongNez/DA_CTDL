@@ -1,0 +1,26 @@
+﻿  main.cpp
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\mylib.h(27,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\mylib.h(27,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(17,20): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(29,20): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(49,20): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(61,20): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(89,86): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(143,71): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(192,41): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(240,95): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(291,107): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(340,46): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(390,62): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(444,46): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(495,46): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(564,55): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(604,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\bat_loi.h(615,46): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\ds_loptc.h(576,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\ds_loptc.h(580,18): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\ds_loptc.h(582,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\ds_mon.h(180,21): warning C4018: '<': signed/unsigned mismatch
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\main.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\sinhvienhetinchi\ds_mon.h(210): warning C4715: 'kt_trung_ma_mon_hoc': not all control paths return a value
+  sinhvienhetinchi.vcxproj -> E:\sinhvienhetinchihoanchinh\sinhvienhetinchi\Debug\sinhvienhetinchi.exe
